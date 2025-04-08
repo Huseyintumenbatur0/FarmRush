@@ -28,6 +28,5 @@ Bu proje şu an geliştirilme aşamasındadır. Henüz tamamlanmamış olmakla b
 - Çiftlik yönetim sistemleri.
 - Grafik ve ses iyileştirmeleri.
 
-EKran görüntüsaü ;
-![Domates Toplama](ekran1.png)
-
+### EKran görüntüsaü :
+üste ekran görüntüsü verilmiştir.
